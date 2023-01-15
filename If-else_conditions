@@ -1,0 +1,18 @@
+import java.util.*;
+import java.util.Date;  
+class Main{
+    public static void main(String args[]){
+        System.out.println("Hell World");
+         Date date = new Date();  
+         System.out.println(date);  
+        
+          String month = "jan";
+        
+         if(month =="jan"){
+            System.out.println("New  Year Wishes");
+         }
+         else{
+             System.out.println("Love");
+        }
+    }
+}
