@@ -1,0 +1,15 @@
+import java.util.Arrays;
+public class Example {
+    public static void main(String[] args) {
+        String[] array = {"apple", "banana", "orange", "grape"};
+        String elementToFind = "orange";
+
+        int index = Arrays.asList(array).indexOf(elementToFind);
+
+        if (index != -1) {
+            System.out.println("Element found at index: " + index);
+        } else {
+            System.out.println("Element not found in the array.");
+        }
+    }
+}
