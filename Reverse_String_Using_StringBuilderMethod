@@ -1,0 +1,7 @@
+class HelloWorld {
+    public static void main(String[] args) {
+     String Str = "GeeksForGeeks";
+       StringBuilder rev = new StringBuilder(Str).reverse();
+        System.out.println(rev.toString()); 
+    }
+}
