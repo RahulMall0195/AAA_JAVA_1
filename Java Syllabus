@@ -1,0 +1,238 @@
+-------------------------------------------------------INTRODUCTION TO JAVA--------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Hello World Project
+    Defining Main Method
+    Hello World Challenge
+    Variables in Java
+    Primitive Type - Int
+    Primitive Types - Byte, Long and Short
+    Casting
+    Primitive Type Challenge
+    Float and Double in JAVA
+    Floating point precision in Java
+    Char in JAVA
+    Boolean in Java
+    Strings in Java
+    Operators, Operands, Expressions and abbreviating operators
+    if then statement
+    Logical And Operator in JAVA
+    Logical OR Operator in Java
+    Assignment Vs Equal to Operator
+    Ternary Operator in JAVA
+    Operator Precedence and Challenge
+
+
+_______________________________________________________________________________________________
+
+-------------------------------------------------------FUNCTIONALITIES IN JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Keywords and Expressions in JAVA
+    if then else statement
+    Methods in Java
+    Method Challenge
+    Method Overloading
+    Method Overloading Revision
+    Method Overloading Challenge
+
+In this section we have  covers many topics like  the introduction to keywords and method, some concepts of OOPs like method overloading and their challenges
+_______________________________________________________________________________________________
+
+
+-------------------------------------------------------CONTROL FLOW STATEMENTS-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Intro
+    Switch statement in Java
+    Switch Challenge in JAVA
+    For Statement
+    For Loop Challenge
+    While Do-While
+    While Statement Challenge
+    Do-While Loop Challenge
+    Parsing values from a string
+    Reading User Input
+    Reading User Input Challenge
+
+In this section we have covered all type of loops like While loop , for loop . Do-While loop , and how to parse value from  a string and many more.
+_______________________________________________________________________________________________
+
+-------------------------------------------------------BUILDING BLOCKS OF JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Classes
+    Class challenge
+    Constructor
+    Constructor challenge
+    Inheritance
+    References vs Objects vs Class vs Instances
+    This vs Super
+    Method Overloading vs Overriding
+    Static vs Instance Methods
+    Static vs Instance Variables
+
+In this section we have covered building blocks of java such as into to classes and about constructor and some  OOPs concepts  like Inheritance  , objects many more
+_______________________________________________________________________________________________
+
+-------------------------------------------------------OOPS IN JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Introduction
+    Composition
+    Encapsulation
+    Polymorphism
+
+In this section we have covered the most of the concept of OOPs like their   into and their features like composition , Encapsulation Polymorphism and many more .
+_______________________________________________________________________________________________
+
+-------------------------------------------------------ARRAYS AND ARRAYLISTS IN JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Arrays in Java
+    Reference types vs value types
+    ArrayList
+    Autoboxing and Unboxing LinkedList
+
+In this section we have covered detail analysis of Arrays and ArrayList ,and their reference  type, and about LinkedList .
+_______________________________________________________________________________________________
+
+-------------------------------------------------------LINKED LISTS AND ABSTRACT FEATURES OF JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Introduction to LinkedList
+    LinkedList Challenge
+    Interfaces in Java
+    Inner Class
+    Abstract Class
+    Interfaces vs Abstract Class
+
+In this section we have covered more details about Interface in java and their inner class and what is the basic difference between Interface and Abstract class .
+_______________________________________________________________________________________________
+
+-------------------------------------------------------NAMING CONVENTIONS AND PACKAGES IN JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Naming Conventions in Java
+    Packages
+    Scope
+    Visibility
+    Access Modifiers
+    Static Keyword
+    Final Keyword in Java
+    Static Initializers in Java
+
+In this section we have covered ,what is naming convention of java ,what is packages ,scope and their visibility and about access modifiers .
+_______________________________________________________________________________________________
+
+-------------------------------------------------------COLLECTION FRAMEWORK IN JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Collection Framework
+    Comparable Vs Comparator
+    Introduction to Maps
+    HashMaps
+    Sets and HashSets
+    hashCode() and equals()
+    Sorted Collections -
+    LinkedHashMap
+    Sorted Collection - Linked
+    HashSet
+    TreeMap
+    TreeSet
+
+In this section we covered details about Framework ,Hashmap , Sets  ,Hashset , Treemap , TreeSet  and many more topics
+_______________________________________________________________________________________________
+
+-------------------------------------------------------EXCEPTION HANDLING, BUFFEREDREADER AND BUFFEREDWRITER-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Exceptions
+    Catching and Throwing Exception
+    Multi-Catch Exceptions
+    BufferedReader in Java
+    BufferedWriter
+
+In this section we have covered about Exception handling and about bufferedReader and Writer and many more.
+_______________________________________________________________________________________________
+
+-------------------------------------------------------MULTI THREADING IN JAVA-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Concurrency and Threads Introduction
+    Threads
+    Runnable and Threads
+    Interrupt and Join
+    Multiple Threads in Java
+    Thread variables and Synchronization
+    More on Synchronization
+    Thread interference
+    Using Try and Finally with Threads
+    Deadlocks in Java
+
+In this section we have covered about the Multithreading in java and their use cases and some features like  Deadlock , interrupt ,and what is runnable class .
+_______________________________________________________________________________________________
+
+-------------------------------------------------------LAMBDA EXPRESSIONS-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Lambda expressions Introduction
+    Lambda expressions and Nested Blocks
+    Scope and Functional Interfaces
+    Functional Interfaces & Predicates
+    Functions
+    Streams
+    Streams - Intermediate and Terminal Operations
+    Flatmap
+
+In this section we have covered about Lambda expression and functions , Flatmap and more about functions and Predicates .
+
+_______________________________________________________________________________________________
+
+-------------------------------------------------------REGULAR EXPRESSIONS-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Regular Expressions Introduction
+    Character Classes & Boundary Matchers
+    Quantifiers and the Pattern and Matcher classes
+    Matcher Find in Java
+    AND, OR & NOT
+
+In this section we have covered details about regular expression and quantifiers and Patterns and Matchers classes and more about operators like AND ,OR , & NOT .
+_______________________________________________________________________________________________
+
+-------------------------------------------------------Most asked Interview Questions-------------------------------------------------------
+
+In this particular section we will learn the following things:
+
+    Why is Java a platform independent language?
+    Why is Java not a pure object oriented language?
+    Why Java Strings are immutable in nature?
+    Is it mandatory for a catch block to be followed after a try block?
+    Explain JDK, JRE, JVM
+    What will happen if you put the return statement or System.exit () on the try or catch block? Will finally block execute?
+    Are you aware of Daemon Thread in Java?
+    Why does Java not make use of pointers?
+    What Is the Difference Between Final, Finally, and Finalize?
+    What Methods Does the Object Class Have?
+    What Is the Diamond Problem?
+    What is the difference between equals() and == in Java?
+    What is JIT compiler in Java?
+
+In this section we have covered details about Most asked Interview Questions.
+
+_______________________________________________________________________________________________
+
